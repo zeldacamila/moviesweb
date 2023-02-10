@@ -29,7 +29,7 @@ const PrincipalBanner = ({PBTitle, PBContent}) => {
           <Modal open={isModalOpen} onOk={handleOk} onCancel={handleCancel} footer={null} width='800px' >
             <div height='800px'>
             <ReactPlayer
-              url='https://www.youtube.com/watch?v=jYuAmonOUvU&ab_channel=Mr.WebDesigner'
+              url='https://www.youtube.com/watch?v=a6TGdjJda6k&ab_channel=LIBELACADEMY'
               className='react-player'
               controls
               width='90%'
